@@ -26,32 +26,51 @@ Najaktuálnešia/najnovšia verzia je **4.0.12**. V praxi sú bežne aj verzie: 
 
 
 ## ⚓ Odkazy na kurzy
-[Prezenčné Kurzy Groovy](https://www.it-academy.sk/kurz/groovy-i-zaciatocnik/)) 
-[Online Kurz Groovy](https://www.vita.sk/online-kurz-groovy-i-zaciatocnik/)
+[Prezenčné Kurzy Groovy](https://www.it-academy.sk/kurz/groovy-i-zaciatocnik/))    
+[Online Kurz Groovy](https://www.vita.sk/online-kurz-groovy-i-zaciatocnik/)  
 
 ## 📁 Súbory a Materiály
 Dostupné na GitHube alebo na kurze od lektora
 
 ## 📔 Inštalácia a SW pre programovanie a skriptovanie v Groovy
-1. [Stiahnutie IBM SPSS](https://www.ibm.com/analytics/spss-statistics-software ))
+1. [Oracle Java SE JDK 17](https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html)
+1. [Oracle Java SE JDK 8](https://www.oracle.com/java/technologies/javase/javase8-archive-downloads.html)
+1. [Aapche Groovy Microsoft Windows Installer, Groovy Console](https://groovy.jfrog.io/ui/native/dist-release-local/groovy-windows-installer/groovy-4.0.12/)
+1. [Apache Groovy SDK](https://groovy.jfrog.io/ui/native/dist-release-local/groovy-zips/apache-groovy-sdk-4.0.12.zip)
+1. [Apache Netbeans 18](https://netbeans.apache.org/download/nb18/index.html)
+1. [Editor Microsoft Visual Studio Code](https://code.visualstudio.com/ )
+1. [Notepad++](https://notepad-plus-plus.org/downloads/v8.5.3/)
+1. [Písmo Fire_Code](https://github.com/tonsky/FiraCode)
+1. [Groovy IDE](https://groovyide.com/playground)
+1. [Groovy Online](https://www.jdoodle.com/execute-groovy-online/)
 
-
-## 📔 Dokumentácia a SW Groovy
-1. [Stiahnutie IBM SPSS](https://www.ibm.com/analytics/spss-statistics-software ))
-1. [Support IBM SPSS](https://www.ibm.com/products/spss-statistics/support)
-1. [Pomocník Dokumentácia IBM SPSS](https://www.ibm.com/docs/en/spss-statistics/saas?topic=statistics-coach)
-1. [Dokumentácia CZ IBM SPSS](https://www.ibm.com/support/pages/node/6607043#cs)
-4. [FinStat Firmy s najväčšími tržbami](https://finstat.sk/databaza-financnych-udajov?sort=sales-desc&years=2020)
-5. [FinStat Najziskovejšie Firmy](https://finstat.sk/databaza-financnych-udajov?sort=profit-desc&years=2020)
-6. [FinStat Najväčší zamestnávatelia](https://finstat.sk/databaza-firiem-organizacii?sort=empl-desc)
-7. [FinStat Najväčšie univerzity](https://finstat.sk/databaza-neziskoviek?sort=revenue-desc&tab=revenue&legalform=382)
-8. [IBM SPSS Tutorialy](https://www.spss-tutorials.com/)
-9. [IBM SPSS Tipy](https://www.spssanalyticspartner.com/analytics-resources/ibm-spss-technical-tips/))
+## 📔 Dokumentácia a Zdroje Groovy
+1. [Stiahnutie Groovy](https://groovy-lang.org/)
+1. [GitHub Groovy](https://github.com/apache/groovy)
+1. [Pomocník Dokumentácia Groovy](https://www.ibm.com/docs/en/spss-statistics/saas?topic=statistics-coach)
+1. [Dokumentácia CZ Groovy](https://www.ibm.com/support/pages/node/6607043#cs)
+8. [Groovy Tutorialy](https://www.spss-tutorials.com/)
+9. [Groovy Tipy](https://www.spssanalyticspartner.com/analytics-resources/ibm-spss-technical-tips/))
 
 ## 📈 YouTube video záznamy z kurzy a prednášok Playlist (Programovacie Jazyky)
 [YouTube kanál IT Academy](https://www.youtube.com/watch?v=16mOykzIcYU&list=PLIu_ZdHo7Pk-u7vjIzelqSpYtYpP1lhIU&index=45) 
 
 ## 📎 Obsah Kurzu
-### I. Predstavenie a práca s IBM SPSS Statistics
-<img width="1280" alt="19 05 2023 20_09_18-Greenshot" src="https://github.com/miroslav-reiter/Kurz_IBM_SPSS_Statistics/assets/24510943/588f2fe9-f4b4-49ce-8caa-bc427c0db571">
+### I. Úvod do jazyka Groovy
 
+## Premenné Prostredia (Systémové Premenné - Environ)
+```
+GROOVY_HOME	- C:\Program Files (x86)\Groovy\
+Path - %GROOVY_HOME%bin
+Java - C:\Program Files\Common Files\Oracle\Java\javapath;
+```
+
+## Ahoj, Svet! (Hello, World!)
+```groovy
+// Toto je jednoriadkovy komentár
+// Používateľský výstup na obrazovku, Výpis do Konzoly
+println "Ahoj, Svet!"
+```
+```
+groovy AhojSvet.groovy
+```
