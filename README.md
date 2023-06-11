@@ -3,10 +3,12 @@
 [Kurz Groovy](https://www.it-academy.sk/kategoria/programovacie-jazyky/kurzy-groovy/) je pre vás ideálnym štartom, ak sa chcete vyznať v objektovo orientovanom programovacom jazyku Groovy. Oboznámime vás so základmi jazyka Groovy, prejdeme si inštaláciu vývojových prostredí a dokumentáciou. Ukážeme si, ako využívať Groovy knižnicu a rôzne dátové typy. Ako absolvent kurzu Groovy zvládnete základy práce s Groovy, porozumiete jeho ekosystému a budete schopný vykonávať základné testovanie.
 
 ## ❓ Čo je Groovy (GroovyScript)
-SPSS Statistics je **štatistický softvérový balík** vyvinutý spoločnosťou **IBM** na **správu údajov**, **pokročilú analýzu**, **viacrozmernú analýzu**, **business intelligence** a **vyšetrovanie trestných činov**. Dlho vyrábaný spoločnosťou SPSS Inc., spoločnosť IBM ho získala v roku 2009. Verzie softvéru vydané od roku 2015 majú značku **IBM SPSS Statistics**.
+Groovy je **objektovo orientovaný programovací jazyk** pre **platformu Java**. Ide o **alternatívu** k programovaciemu jazyku **Java**. Možno naň pozerať ako na **skriptovací jazyk** pre javovskú platformu. Inšpiráciu čerpal z jazykov Python, Ruby, Perl a Smalltalk. Využíva **výhody objektového programovania**, ale zároveň poskytuje **zjednodušenú "skriptovaciu" syntax**, ktorá vie "zabaliť a rozbaliť" často opakované časti kódu. 
+Jedným z jeho cieľov je **redukovať "povinný" kód** a zjednodušiť tak tvorbu webových, databázových či desktopových aplikácií. 
+Kompilácia je **vykonávaná priamo do bajtkódu**, takže ho môžeme použiť všade tam, kde funguje Java.
 
 ## 🙋 Verzie Groovy
-Najaktuálnešia/najnovšia verzia je **4.0.12**. Na trhu sú bežne aj verzie: 3.0 a 2.5. 
+Najaktuálnešia/najnovšia verzia je **4.0.12**. V praxi sú bežne aj verzie: 3.0 a 2.5. 
 
 <img width="688" alt="11 06 2023 15_23_39-The Apache Groovy programming language - Download – Opera" src="https://github.com/miroslav-reiter/Kurz_Groovy_GroovyScript/assets/24510943/00b1a2bb-d98d-4c40-862b-fc1b974a3d3f">
 
