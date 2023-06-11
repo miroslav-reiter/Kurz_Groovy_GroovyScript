@@ -115,6 +115,8 @@ public class Main {
         System.out.println("It's as alive");
     }
 }
+```
+
 ```groovy
 // Toto je jednoriadkovy komentár
 
@@ -133,7 +135,6 @@ Tento skript služi na...
 /*Inline vnorený komentár*/
 ```
 
-```
 ## Triedy (Classes)
 ```groovy
 package sk.itacademy 
