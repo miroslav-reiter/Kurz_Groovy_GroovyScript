@@ -10,16 +10,29 @@ Najaktuálnešia/najnovšia verzia je **4.0.12**. Na trhu sú bežne aj verzie: 
 
 <img width="688" alt="11 06 2023 15_23_39-The Apache Groovy programming language - Download – Opera" src="https://github.com/miroslav-reiter/Kurz_Groovy_GroovyScript/assets/24510943/00b1a2bb-d98d-4c40-862b-fc1b974a3d3f">
 
+**TIP 1:** Verziu Groovy zistíme v Groovy Console na Karte Help (Pomocník) > About (O Programe) a stavovom riadku (spodný riadok aplikácie)
+<img width="498" alt="groovy-01" src="https://github.com/miroslav-reiter/Kurz_Groovy_GroovyScript/assets/24510943/caf61d62-1d1c-4329-a039-96362b419652">
 
-**TIP:** Verziu zistíme na Karte Help (Pomocník) > About (O Programe) 
-<img width="373" alt="help" src="https://github.com/miroslav-reiter/Kurz_IBM_SPSS_Statistics/assets/24510943/a752c5b3-074c-4ac8-ae61-8eec2647984a">
+**TIP 2:** Verziu vieme zistiť aj Groovy Shelly a to rovno po spustení
+<img width="740" alt="11 06 2023 15_27_07-Groovy Shell" src="https://github.com/miroslav-reiter/Kurz_Groovy_GroovyScript/assets/24510943/2dd8585b-b501-4411-9d64-9f74a2067701">
+
+**TIP 3:** Verziu vieme zistiť aj CMD (Príkazovom riadku) to pomocou príkazov groovyc -v, groovyc --version (Groovy Complier) alebo groovy -v, groovy --version (Groovy Interpreter) 
+<img width="578" alt="11 06 2023 15_29_10-Administrator_ C__Windows_System32_cmd exe" src="https://github.com/miroslav-reiter/Kurz_Groovy_GroovyScript/assets/24510943/c274b6b1-825b-4c1a-9f47-4c57076fc097">
+
+
+<img width="578" alt="11 06 2023 15_29_50-Administrator_ C__Windows_System32_cmd exe" src="https://github.com/miroslav-reiter/Kurz_Groovy_GroovyScript/assets/24510943/947299c8-c001-449d-b01d-e26e27291be3">
+
 
 ## ⚓ Odkazy na kurzy
-[Prezenčné Kurzy IBM SPSS](https://www.it-academy.sk/kurz-ibm-spss-i-zaciatocnik)  
-[Online Kurz IBM SPSS Statistics](https://www.vita.sk/online-kurz-ibm-spss-statistics/)  
+[Prezenčné Kurzy Groovy](https://www.it-academy.sk/kurz/groovy-i-zaciatocnik/)) 
+[Online Kurz Groovy](https://www.vita.sk/online-kurz-groovy-i-zaciatocnik/)
 
 ## 📁 Súbory a Materiály
 Dostupné na GitHube alebo na kurze od lektora
+
+## 📔 Inštalácia a SW pre programovanie a skriptovanie v Groovy
+1. [Stiahnutie IBM SPSS](https://www.ibm.com/analytics/spss-statistics-software ))
+
 
 ## 📔 Dokumentácia a SW Groovy
 1. [Stiahnutie IBM SPSS](https://www.ibm.com/analytics/spss-statistics-software ))
