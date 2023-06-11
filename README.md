@@ -21,12 +21,10 @@ Najaktuálnešia/najnovšia verzia je **4.0.12**. V praxi sú bežne aj verzie: 
 **TIP 3:** Verziu vieme zistiť aj CMD (Príkazovom riadku) to pomocou príkazov groovyc -v, groovyc --version (Groovy Complier) alebo groovy -v, groovy --version (Groovy Interpreter) 
 <img width="578" alt="11 06 2023 15_29_10-Administrator_ C__Windows_System32_cmd exe" src="https://github.com/miroslav-reiter/Kurz_Groovy_GroovyScript/assets/24510943/c274b6b1-825b-4c1a-9f47-4c57076fc097">
 
-
 <img width="578" alt="11 06 2023 15_29_50-Administrator_ C__Windows_System32_cmd exe" src="https://github.com/miroslav-reiter/Kurz_Groovy_GroovyScript/assets/24510943/947299c8-c001-449d-b01d-e26e27291be3">
 
-
 ## ⚓ Odkazy na kurzy
-[Prezenčné Kurzy Groovy](https://www.it-academy.sk/kurz/groovy-i-zaciatocnik/))    
+[Prezenčné Kurzy Groovy](https://www.it-academy.sk/kurz/groovy-i-zaciatocnik/)  
 [Online Kurz Groovy](https://www.vita.sk/online-kurz-groovy-i-zaciatocnik/)  
 
 ## 📁 Súbory a Materiály
@@ -47,10 +45,12 @@ Dostupné na GitHube alebo na kurze od lektora
 ## 📔 Dokumentácia a Zdroje Groovy
 1. [Stiahnutie Groovy](https://groovy-lang.org/)
 1. [GitHub Groovy](https://github.com/apache/groovy)
-1. [Pomocník Dokumentácia Groovy](https://www.ibm.com/docs/en/spss-statistics/saas?topic=statistics-coach)
-1. [Dokumentácia CZ Groovy](https://www.ibm.com/support/pages/node/6607043#cs)
-8. [Groovy Tutorialy](https://www.spss-tutorials.com/)
-9. [Groovy Tipy](https://www.spssanalyticspartner.com/analytics-resources/ibm-spss-technical-tips/))
+1. [Style Guide Apache Groovy](http://groovy-lang.org/style-guide.html)
+1. [Style Guide Jetbrains](https://www.jetbrains.com/help/idea/code-style-groovy.html)
+1. [Groovy Seriál CZ](https://www.root.cz/clanky/groovy-v-prikladech-uvod-do-jazyka/)
+1. [Groovy Tutorial Javatpoint](https://www.javatpoint.com/groovy)
+1. [Groovy Tutorial Guru99](https://www.guru99.com/groovy-tutorial.html)
+1. [Groovy Tutorial Tutorialspoint](https://www.tutorialspoint.com/groovy/index.htm)
 
 ## 📈 YouTube video záznamy z kurzy a prednášok Playlist (Programovacie Jazyky)
 [YouTube kanál IT Academy](https://www.youtube.com/watch?v=16mOykzIcYU&list=PLIu_ZdHo7Pk-u7vjIzelqSpYtYpP1lhIU&index=45) 
@@ -64,19 +64,45 @@ GROOVY_HOME - C:\Program Files (x86)\Groovy\
 Path - %GROOVY_HOME%bin
 Java - C:\Program Files\Common Files\Oracle\Java\javapath;
 ```
-
 ## Groovy Konzola (Groovysh)
 ```
 # Ctrl + J - Object Browser vid :inspect alebo :n
 groovy -v
 groovy --version
 ```
+### Dostupné príkazy Groovysh
+```
+  :help      (:h ) Display this help message
+  ?          (:? ) Alias to: :help
+  :exit      (:x ) Exit the shell
+  :quit      (:q ) Alias to: :exit
+  import     (:i ) Import a class into the namespace
+  :display   (:d ) Display the current buffer
+  :clear     (:c ) Clear the buffer and reset the prompt counter
+  :show      (:S ) Show variables, classes or imports
+  :inspect   (:n ) Inspect a variable or the last result with the GUI object browser
+  :purge     (:p ) Purge variables, classes, imports or preferences
+  :edit      (:e ) Edit the current buffer
+  :load      (:l ) Load a file or URL into the buffer
+  .          (:. ) Alias to: :load
+  :save      (:s ) Save the current buffer to a file
+  :record    (:r ) Record the current session to a file
+  :history   (:H ) Display, manage and recall edit-line history
+  :alias     (:a ) Create an alias
+  :set       (:= ) Set (or list) preferences
+  :grab      (:g ) Add a dependency to the shell environment
+  :register  (:rc) Register a new command with the shell
+  :doc       (:D ) Open a browser window displaying the doc for the argument
+
+For help on a specific command type:
+    :help command
+```
 
 ## Ahoj, Svet! (Hello, World!)
 ```groovy
+// Groovy - 1 Riadok
 // Toto je jednoriadkovy komentár
 // Používateľský výstup na obrazovku, Výpis do Konzoly
-// Groovy - 1 Riadok
 println "Ahoj, Svet!"
 ```
 ```
@@ -101,4 +127,21 @@ class Main {
         println "Toto je posledny riadok..."
     }  
 }  
+```
+
+## Premenné a Dátové Type (Variables and Data Types)
+```groovy
+Def sprava = "Ahoj, Svet!"
+println sprava 
+
+String sprava2 = "Ahoj, Svet!"
+println sprava2
+```
+
+## Kolekcie (Zoznamy a Mapy)
+```groovy
+// Zoznam (List)
+mena = ["Adam", "Karol", "Fero“]
+// Mapa (Map)
+zamestnanec = [meno: "Adam", priezvisko: "Šangala"]
 ```
