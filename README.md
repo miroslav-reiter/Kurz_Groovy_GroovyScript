@@ -116,7 +116,7 @@ public class Main {
     }
 }
 ```
-
+## Komentáre (Comments)
 ```groovy
 // Toto je jednoriadkovy komentár
 
@@ -133,6 +133,11 @@ Tento skript služi na...
 */
 
 /*Inline vnorený komentár*/
+
+// Unixový komentár
+#!/usr/bin/env groovy
+
+// Pozor nepozná klasický komentár s # (hashom)
 ```
 
 ## Triedy (Classes)
