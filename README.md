@@ -174,8 +174,8 @@ zamestnanec = [meno: "Adam", priezvisko: "Šangala"]
 ```
 
 ## Tabuľka operátorov a k nim korešpondujúce metódy
-https://groovy-lang.org/operators.html
-https://docs.groovy-lang.org/latest/html/documentation/core-operators.html
+https://groovy-lang.org/operators.html  
+https://docs.groovy-lang.org/latest/html/documentation/core-operators.html  
 
 | Operator | Method        | Operator | Method                  |
 |----------|---------------|----------|-------------------------|
