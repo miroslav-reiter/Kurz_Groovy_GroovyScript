@@ -6,9 +6,10 @@
 SPSS Statistics je **štatistický softvérový balík** vyvinutý spoločnosťou **IBM** na **správu údajov**, **pokročilú analýzu**, **viacrozmernú analýzu**, **business intelligence** a **vyšetrovanie trestných činov**. Dlho vyrábaný spoločnosťou SPSS Inc., spoločnosť IBM ho získala v roku 2009. Verzie softvéru vydané od roku 2015 majú značku **IBM SPSS Statistics**.
 
 ## 🙋 Verzie Groovy
-Najaktuálnešia/najnovšia verzia je **4.0.12**. Na trhu sú bežne aj verzie: 3.0 a 2.0. 
+Najaktuálnešia/najnovšia verzia je **4.0.12**. Na trhu sú bežne aj verzie: 3.0 a 2.5. 
 
-<img width="487" alt="19 05 2023 20_06_36-IBM SPSS Statistics" src="https://github.com/miroslav-reiter/Kurz_IBM_SPSS_Statistics/assets/24510943/05809412-b26b-42df-b1c0-abd2d95b6c7e">
+<img width="688" alt="11 06 2023 15_23_39-The Apache Groovy programming language - Download – Opera" src="https://github.com/miroslav-reiter/Kurz_Groovy_GroovyScript/assets/24510943/00b1a2bb-d98d-4c40-862b-fc1b974a3d3f">
+
 
 **TIP:** Verziu zistíme na Karte Help (Pomocník) > About (O Programe) 
 <img width="373" alt="help" src="https://github.com/miroslav-reiter/Kurz_IBM_SPSS_Statistics/assets/24510943/a752c5b3-074c-4ac8-ae61-8eec2647984a">
