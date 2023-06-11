@@ -1,14 +1,12 @@
 # ⭐ Materiály ku kurzu Groovy (GroovyScript)
 
-[Kurz Groovy}(https://www.vita.sk/ibm-spss-statistics/) je pre vás skvelou voľbou, ak chcete využívať softvér IBM SPSS na štatistickú analýzu dát. Oboznámime vás so SAV súbormi IBM SPSS a ich štruktúrou. Ukážeme vám, ako pracovať s datasetmi a ako štatistické testy. Zvládnete vykonávať manuálne úpravy, usporiadanie štatistických pozorovaní a premenných.
+[Kurz Groovy](https://www.it-academy.sk/kategoria/programovacie-jazyky/kurzy-groovy/) je pre vás ideálnym štartom, ak sa chcete vyznať v objektovo orientovanom programovacom jazyku Groovy. Oboznámime vás so základmi jazyka Groovy, prejdeme si inštaláciu vývojových prostredí a dokumentáciou. Ukážeme si, ako využívať Groovy knižnicu a rôzne dátové typy. Ako absolvent kurzu Groovy zvládnete základy práce s Groovy, porozumiete jeho ekosystému a budete schopný vykonávať základné testovanie.
 
 ## ❓ Čo je Groovy (GroovyScript)
 SPSS Statistics je **štatistický softvérový balík** vyvinutý spoločnosťou **IBM** na **správu údajov**, **pokročilú analýzu**, **viacrozmernú analýzu**, **business intelligence** a **vyšetrovanie trestných činov**. Dlho vyrábaný spoločnosťou SPSS Inc., spoločnosť IBM ho získala v roku 2009. Verzie softvéru vydané od roku 2015 majú značku **IBM SPSS Statistics**.
 
-Názov softvéru pôvodne znamenal **Statistical Package for the Social Sciences (SPSS)**, odrážajúci pôvodný trh, neskôr sa zmenil na **Statistical Product and Service Solutions**.
-
 ## 🙋 Verzie Groovy
-Najaktuálnešia/najnovšia verzia je **29**. Na trhu sú bežne verzie: 25-28  
+Najaktuálnešia/najnovšia verzia je **4.0.2**. Na trhu sú bežne verzie: 25-28  
 
 <img width="487" alt="19 05 2023 20_06_36-IBM SPSS Statistics" src="https://github.com/miroslav-reiter/Kurz_IBM_SPSS_Statistics/assets/24510943/05809412-b26b-42df-b1c0-abd2d95b6c7e">
 
