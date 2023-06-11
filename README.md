@@ -60,7 +60,7 @@ Dostupné na GitHube alebo na kurze od lektora
 
 ## Premenné Prostredia (Systémové Premenné - Environ)
 ```
-GROOVY_HOME	- C:\Program Files (x86)\Groovy\
+GROOVY_HOME - C:\Program Files (x86)\Groovy\
 Path - %GROOVY_HOME%bin
 Java - C:\Program Files\Common Files\Oracle\Java\javapath;
 ```
@@ -69,8 +69,29 @@ Java - C:\Program Files\Common Files\Oracle\Java\javapath;
 ```groovy
 // Toto je jednoriadkovy komentár
 // Používateľský výstup na obrazovku, Výpis do Konzoly
+// Groovy - 1 Riadok
 println "Ahoj, Svet!"
 ```
 ```
 groovy AhojSvet.groovy
+```
+```java
+// Java - 5-7 Riadkov spolu s balíčkom
+public class Main {
+    public static void main(String[] args) {
+        System.out.println("It's as alive");
+    }
+}
+```
+## Triedy (Classes)
+```groovy
+package sk.itacademy 
+class Main {  
+    static void main(args) {  
+        print "Toto je priklad s triedou..."  
+        print "Toto je dalsi text...\n"
+        println "Toto je dalsi riadok..."
+        println "Toto je posledny riadok..."
+    }  
+}  
 ```
