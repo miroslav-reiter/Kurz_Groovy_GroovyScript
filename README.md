@@ -59,6 +59,9 @@ Dostupné na GitHube alebo na kurze od lektora
 ### I. Úvod do jazyka Groovy
 
 ## Premenné Prostredia (Systémové Premenné - Environ)
+- Pridať GROOVY_HOME premennú na adresár, v ktorom je uložená distribúcia
+- Do PATH premennej pridať cestu do adresára GROOVY_HOME\bin
+- A nastaviť JAVA_HOME premennú na adresár, v ktorom je JDK.
 ```
 GROOVY_HOME - C:\Program Files (x86)\Groovy\
 Path - %GROOVY_HOME%bin
