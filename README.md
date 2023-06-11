@@ -115,6 +115,24 @@ public class Main {
         System.out.println("It's as alive");
     }
 }
+```groovy
+// Toto je jednoriadkovy komentár
+
+/* Toto
+je 
+viacriadkový
+komentár */
+
+/** 
+Tento skript služi na...
+@author Miroslav Reiter
+@version 1.0.0
+@see RTFM.pdf
+*/
+
+/*Inline vnorený komentár*/
+```
+
 ```
 ## Triedy (Classes)
 ```groovy
@@ -141,7 +159,7 @@ println sprava2
 ## Kolekcie (Zoznamy a Mapy)
 ```groovy
 // Zoznam (List)
-mena = ["Adam", "Karol", "Fero“]
+mena = ["Adam", "Karol", "Fero"]
 // Mapa (Map)
 zamestnanec = [meno: "Adam", priezvisko: "Šangala"]
 ```
