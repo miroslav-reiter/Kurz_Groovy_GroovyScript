@@ -65,6 +65,13 @@ Path - %GROOVY_HOME%bin
 Java - C:\Program Files\Common Files\Oracle\Java\javapath;
 ```
 
+## Groovy Konzola (Groovysh)
+```
+# Ctrl + J - Object Browser vid :inspect alebo :n
+groovy -v
+groovy --version
+```
+
 ## Ahoj, Svet! (Hello, World!)
 ```groovy
 // Toto je jednoriadkovy komentár
