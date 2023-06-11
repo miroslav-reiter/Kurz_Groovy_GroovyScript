@@ -172,3 +172,21 @@ mena = ["Adam", "Karol", "Fero"]
 // Mapa (Map)
 zamestnanec = [meno: "Adam", priezvisko: "Šangala"]
 ```
+
+## Tabuľka operátorov a k nim korešpondujúce metódy
+https://groovy-lang.org/operators.html
+https://docs.groovy-lang.org/latest/html/documentation/core-operators.html
+
+| Operator | Method        | Operator | Method                  |
+|----------|---------------|----------|-------------------------|
+| +        | a.plus(b)     | a[b]     | a.getAt(b)              |
+| -        | a.minus(b)    | a[b] = c | a.putAt(b, c)           |
+| *        | a.multiply(b) | a in b   | b.isCase(a)             |
+| /        | a.div(b)      | <<       | a.leftShift(b)          |
+| %        | a.mod(b)      | >>       | a.rightShift(b)         |
+| **       | a.power(b)    | >>>      | a.rightShiftUnsigned(b) |
+| \|       | a.or(b)       | ++       | a.next()                |
+| &        | a.and(b)      | --       | a.previous()            |
+| ^        | a.xor(b)      | +a       | a.positive()            |
+| as       | a.asType(b)   | -a       | a.negative()            |
+| a()      | a.call()      | ~a       | a.bitwiseNegate()       |
