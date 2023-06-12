@@ -51,7 +51,8 @@ Dostupné na GitHube alebo na kurze od lektora
 1. [Groovy Tutorial Javatpoint](https://www.javatpoint.com/groovy)
 1. [Groovy Tutorial Guru99](https://www.guru99.com/groovy-tutorial.html)
 1. [Groovy Tutorial Tutorialspoint](https://www.tutorialspoint.com/groovy/index.htm)
-
+1. [Groovy Style Guide](https://groovy-lang.org/style-guide.html)
+2.
 ## 📈 YouTube video záznamy z kurzy a prednášok Playlist (Programovacie Jazyky)
 [YouTube kanál IT Academy](https://www.youtube.com/watch?v=16mOykzIcYU&list=PLIu_ZdHo7Pk-u7vjIzelqSpYtYpP1lhIU&index=45) 
 
@@ -200,3 +201,12 @@ https://docs.groovy-lang.org/latest/html/documentation/core-operators.html
 | ^        | a.xor(b)      | +a       | a.positive()            |
 | as       | a.asType(b)   | -a       | a.negative()            |
 | a()      | a.call()      | ~a       | a.bitwiseNegate()       |
+
+## Aké sú obmedzenia/limity Groovy?
+- Beží na JVM, takže má v podstate rovnaké obmedzenia ako Java
+- Je o niečo pomalší ako mnohé iné objektovo orientované programovacie jazyky
+- Pomalší ako Java
+- Pri spúšťaní je trochu pomalý
+- Vyžaduje sa viac pamäte ako v iných jazykoch
+
+https://groovy-lang.org/style-guide.html
