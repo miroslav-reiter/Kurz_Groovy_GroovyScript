@@ -158,6 +158,16 @@ class Main {
 
 ## Premenné a Dátové Type (Variables and Data Types)
 ```groovy
+
+println "string".class
+println 1.class
+println 1.1.class
+println 1000000000.class
+println false.class
+println true.class
+// java.lang.NullPointerException: Cannot get property 'class' on null object
+// println null.class
+
 Def sprava = "Ahoj, Svet!"
 println sprava 
 
