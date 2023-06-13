@@ -52,7 +52,7 @@ Dostupné na GitHube alebo na kurze od lektora
 1. [Groovy Tutorial Guru99](https://www.guru99.com/groovy-tutorial.html)
 1. [Groovy Tutorial Tutorialspoint](https://www.tutorialspoint.com/groovy/index.htm)
 1. [Groovy Style Guide](https://groovy-lang.org/style-guide.html)
-2.
+
 ## 📈 YouTube video záznamy z kurzy a prednášok Playlist (Programovacie Jazyky)
 [YouTube kanál IT Academy](https://www.youtube.com/watch?v=16mOykzIcYU&list=PLIu_ZdHo7Pk-u7vjIzelqSpYtYpP1lhIU&index=45) 
 
